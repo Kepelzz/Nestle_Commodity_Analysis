@@ -1,6 +1,3 @@
-# Nestle_Commodity_Analysis
-End-to-end commodity price analysis: World Bank + Alpha Vantage pipelines, correlation analysis across 427 months, OLS regression identifying cocoa as Nestlé's most stock-sensitive commodity. Python · pandas · statsmodels · plotly
-
 # Nestlé Commodity vs Stock Performance
 
 End-to-end data pipeline and statistical analysis examining whether Nestlé's key commodity input prices have a measurable relationship with Nestlé's stock price (NESN.SW on the Swiss Exchange).
