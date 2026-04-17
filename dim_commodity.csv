@@ -1,0 +1,9 @@
+commodity_key,commodity_name,category,unit
+1,Coffee Arabica,Beverages,$/kg
+2,Coffee Robusta,Beverages,$/kg
+3,Cocoa,Confectionery,$/kg
+4,Sugar (World),Sweeteners,$/kg
+5,Wheat,Grains,$/mt
+6,Corn (Maize),Grains,$/mt
+7,Palm Oil,Oils & Fats,$/mt
+8,Soybeans,Oils & Fats,$/mt
